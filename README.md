@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Reyhan Asta</h1>
-<h3 align="center">I do programming for fun.</h3>
+<h3 align="center">Casual Programmer</h3>
 
-- 🔭 I’m currently working on **Simrey**
+- 🔭 I’m currently working on **Simrey** and **BTM System**
 
 - 🌱 I’m currently learning **Javascripts**
 
