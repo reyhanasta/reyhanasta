@@ -1,11 +1,7 @@
-<h1 align="center">Hi, I'm Reyhan Asta</h1>
-<h3 align="center">Casual Programmer</h3>
+<h1 align="center">Hello, I'm Reyhan Asta</h1>
+<h3 align="center">Casual Programmer from Pekanbaru</h3>
 
-- 🔭 I’m currently working on **Simrey** and **BTM System**
-
-- 🌱 I’m currently learning **Javascripts**
-
-- 📫 How to reach me **astareyhan@gmail.com**
+📫 You can reach me at **astareyhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
