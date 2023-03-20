@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Reyhan Asta</h1>
 <h3 align="left">About Me</h3>
 
-- I'm fullstack developer from Indonesia. 
-- Focus on website based developer. 
+- I'm fullstack web developer from Indonesia. 
 - Experienced with Codeigniter 3.
+- Currently I'm learning Laravel.
 - You can contact me at **astareyhan@gmail.com**
 
 
