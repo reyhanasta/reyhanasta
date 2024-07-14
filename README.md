@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Reyhan Asta</h1>
 <h3 align="center">I do programming for my Hobbies.</h3>
 
-- 🔭 I’m currently working on developing a website called <a href="https://github.com/reyhanasta/koperasi" target="blank">**BTM Koperasi System**</a> and <a href="https://github.com/reyhanasta/simrey" target="blank">**SimRey**</a>  
+- 🔭 I’m currently working on developing a website called <a href="https://github.com/reyhanasta/koperasi" target="blank">**BTM Koperasi System**</a> and <a href="https://github.com/reyhanasta/wuthering-waves-simulator" target="blank">**SimRey**</a>  
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently learning **Laravel Frameworks**
 
 - 📫 How to reach me **astareyhan@gmail.com**
 
