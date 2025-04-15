@@ -15,7 +15,7 @@ I'm a dedicated **IT Support Specialist / IT Administrator** based in **Pekanbar
 * 🏥 My primary role involves managing the clinic's IT infrastructure, providing comprehensive technical support, handling network administration, maintaining hardware/software, and ensuring data integrity.
 * 🚀 My core mission is to leverage technology effectively to support seamless healthcare delivery and maintain efficient systems.
 * 🌱 I’m currently diving deeper into **Node.js and Vue.js**.
-* 👯 I’m open to collaborating on **Health tech utilities]**.
+* 👯 I’m open to collaborating on **Health tech utilities**.
 * 💬 Ask me about **IT Support, Network Management, System Administration, Web Development (Vue, React, Node.js), PHP/Laravel, or general tech problem-solving**.
 * 📫 How to reach me: Drop me an email at `astareyhan@gmail.com` or connect on [LinkedIn](https://www.linkedin.com/in/reyhanasta).
 * ⚡ Fun fact: My world shifts from solving real-world IT problems in healthcare to navigating virtual challenges in games, all while under the watchful (and sometimes sleepy) eyes of my two cats.
@@ -64,9 +64,7 @@ While my current role focuses on IT support and administration, I also possess s
 
 ## 📊 My GitHub Stats:
 
-*(Replace `reyhanasta` with your actual GitHub username)*
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reyhanasta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanasta&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
@@ -78,7 +76,7 @@ While my current role focuses on IT support and administration, I also possess s
 
 <p align="left">
 <a href="https://www.linkedin.com/in/reyhanasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Reyhan Asta's LinkedIn" height="30" width="40" /></a>
-<a href="astareyhan.my.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Reyhan Asta's Website/Blog" height="30" width="40" /></a>
+<a href="https://astareyhan.my.id/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Reyhan Asta's Website/Blog" height="30" width="40" /></a>
 </p>
 
 ---
