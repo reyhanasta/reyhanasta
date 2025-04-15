@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="coding cat">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndqMnJxeHJ6em90NTY3OG55dHI3dzVleDZ6anNyeDVqbjhsNnZvMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Coding GIF" width="400"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndqMnJxeHJ6em90NTY3OG55dHI3dzVleDZ6anNyeDVqbjhsNnZvMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" alt="Coding GIF" width="400"/>
   </a>
 </p>
 
@@ -18,6 +18,7 @@ I'm a dedicated **IT Support Specialist / IT Administrator** based in **Pekanbar
 * 👯 I’m open to collaborating on **Health tech utilities]**.
 * 💬 Ask me about **IT Support, Network Management, System Administration, Web Development (Vue, React, Node.js), PHP/Laravel, or general tech problem-solving**.
 * 📫 How to reach me: Drop me an email at `astareyhan@gmail.com` or connect on [LinkedIn](https://www.linkedin.com/in/reyhanasta).
+* ⚡ Fun fact: My world shifts from solving real-world IT problems in healthcare to navigating virtual challenges in games, all while under the watchful (and sometimes sleepy) eyes of my two cats.
 
 
 ---
@@ -30,9 +31,7 @@ While my current role focuses on IT support and administration, I also possess s
 <p>
   <img src="https://img.shields.io/badge/HTML5-[Color]?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-[Color]?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
-  <img src="https://img.shields.io/badge/Sass-[Color]?style=for-the-badge&logo=sass&logoColor=white" alt="Sass/SCSS"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-[Color]?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-[Color]?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
   <img src="https://img.shields.io/badge/PHP-[Color]?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-[Color]?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
   </p>
@@ -40,7 +39,6 @@ While my current role focuses on IT support and administration, I also possess s
 **Frameworks & Libraries:**
 <p>
   <img src="https://img.shields.io/badge/Vue.js-[Color]?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>&nbsp;
-  <img src="https://img.shields.io/badge/React-[Color]?style=for-the-badge&logo=react&logoColor=white" alt="React"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-[Color]?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>&nbsp;
   <img src="https://img.shields.io/badge/Express-[Color]?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>&nbsp;
   <img src="https://img.shields.io/badge/Laravel-[Color]?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>&nbsp;
@@ -50,23 +48,11 @@ While my current role focuses on IT support and administration, I also possess s
 **Databases:**
 <p>
   <img src="https://img.shields.io/badge/MySQL-[Color]?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-[Color]?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-[Color]?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-[Color]?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>&nbsp;
   </p>
 
 **Tools, Platforms & Concepts:**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-[Color]?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
-  <img src="https://img.shields.io/badge/AWS-[Color]?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vite-[Color]?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>&nbsp;
-  <img src="https://img.shields.io/badge/Webpack-[Color]?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack"/>&nbsp;
-  <img src="https://img.shields.io/badge/Netlify-[Color]?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vercel-[Color]?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jira-[Color]?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>&nbsp;
-  <img src="https://img.shields.io/badge/Figma-[Color]?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;
-  <img src="https://img.shields.io/badge/REST_APIs-[Color]?style=for-the-badge&logo=dependabot&logoColor=white" alt="REST APIs"/>&nbsp; <img src="https://img.shields.io/badge/GraphQL-[Color]?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>&nbsp;
 </p>
 
 **Other Skills:**
@@ -80,8 +66,8 @@ While my current role focuses on IT support and administration, I also possess s
 
 *(Replace `reyhanasta` with your actual GitHub username)*
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reyhanasta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanasta&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 *(Note: GitHub stats may take a few hours to update.)*
