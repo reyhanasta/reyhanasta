@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me:
 
-I'm a dedicated **IT Support Specialist / IT Administrator** based in **Pekanbaru, Indonesia 🇮🇩**. With **3 years of experience** at **Klinik Utama Bukit Raya**, I focus on ensuring smooth and reliable IT operations within a healthcare environment.
+I'm a dedicated **IT Support Specialist / IT Administrator** based in **Pekanbaru, Indonesia 🇮🇩**. With **3 years of experience** as **IT Healthcares**, I focus on ensuring smooth and reliable IT operations within a healthcare environment.
 
 * 🏥 My primary role involves managing the clinic's IT infrastructure, providing comprehensive technical support, handling network administration, maintaining hardware/software, and ensuring data integrity.
 * 🚀 My core mission is to leverage technology effectively to support seamless healthcare delivery and maintain efficient systems.
