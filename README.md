@@ -1,58 +1,34 @@
-<div align="center">
+# Hi there! 👋
 
-# Hi there, I'm Reyhan Asta! 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=I'm+Reyhan+Asta;I+turn+IT+problems+into+solutions;Focusing+on+Vue.js+and+Node.js" alt="Typing SVG" />
+</a>
 
-### IT Support Specialist & Aspiring Full-Stack Developer
+> **"3 years of fixing tech tantrums in clinics. Now leveling up code to build solutions."**
 
-*3 years of taming tech tantrums in clinics. Now building robust web solutions.*
-
-[![](https://img.shields.io/badge/Email-astareyhan%40gmail.com-red?style=flat-square&logo=gmail)](mailto:astareyhan@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-Reyhan%20Asta-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/reyhanasta)
-[![](https://img.shields.io/badge/Portfolio-astareyhan.my.id-black?style=flat-square&logo=google-chrome)](https://astareyhan.my.id/)
-
----
-
-### 🚀 About Me
-
-</div>
-
-I bridge the gap between hardware stability and software innovation. My mission is to build tech solutions that genuinely make people's lives easier.
-
-- 🌱 **Learning:** Currently deep-diving into `Node.js` and `Vue.js`.
-- 💬 **Ask Me About:** IT Support, Network Management, PHP/Laravel, and general tech troubleshooting.
-- 👯 **Collaborate:** Open to working on Web Development projects.
+### 🧐 About Me
+* 🚀 **Mission:** Building tech that simplifies life.
+* 🛠   **Current Focus:** `Node.js`, `Vue.js`, and `System Administration`.
+* 🤝 **Open to:** Web Development collaborations.
+* 📫 **Contact:** [astareyhan@gmail.com](mailto:astareyhan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/reyhanasta)
 
 ---
 
-<div align="center">
+### 💻 Technical Skills
 
-### 🛠️ Tech Stack
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) |
+| **Tools/DB** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+---
 
-**Frameworks & Libraries**
-<br>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-
-**Tools & Database**
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-
-<br>
-<br>
-
-![](https://komarev.com/ghpvc/?username=reyhanasta&label=Profile%20Views&color=blueviolet&style=flat-square)
-
+<div align="left">
+  <a href="https://astareyhan.my.id/" target="_blank"><b>🌐 Visit my Portfolio</b></a> • 
+  <a href="https://www.linkedin.com/in/reyhanasta" target="_blank"><b>💼 Connect on LinkedIn</b></a>
 </div>
+
+<br />
+<img src="https://komarev.com/ghpvc/?username=reyhanasta&label=Views&color=blueviolet&style=flat" alt="Profile views" />
