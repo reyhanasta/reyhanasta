@@ -1,10 +1,10 @@
 # Whatsupp! 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=I'm+Reyhan+Asta;IT+Support+%26+Web+Developer;Exploring+React,+TS+%26+Python" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=I'm+Reyhan+Asta;IT+Support+%26+Web+Developer;Exploring+React,+TS+%26+Python](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Reyhan+Asta;Software+Developer;And+also+an+IT+Support" alt="Typing SVG)" alt="Typing SVG" />
 </a>
 
-> **"3 years of works in clinics as IT Support and Web Developer. Now leveling up coding skills to build robust solutions."**
+> **"3 years of works in Healthcare Industry as IT Support and Web Developer. Now leveling up coding skills to build robust solutions."**
 
 ### 🧐 About Me
 * 🚀 **Mission:** Building tech that simplifies life.
