@@ -6,9 +6,8 @@
 
 > **"3 years of works in Healthcare Industry as IT Support and Web Developer. Now leveling up coding skills to build robust solutions."**
 
-### 🧐 About Me
-* 🚀 **Mission:** Building tech that simplifies life.
-* 🛠   **Current Focus:** diving deep into the `Javascript`.
+### About Me
+* 🛠   **Current Focus:** diving deep into the `Javascript` Environment.
 * 🤝 **Open to:** Web Development collaborations.
 * 📫 **Contact:** [astareyhan@gmail.com](mailto:astareyhan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/reyhanasta)
 
