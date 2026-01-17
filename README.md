@@ -1,7 +1,6 @@
 # Whatsupp! 👋 
-**"3 years of works in Healthcare Industry as IT Support and Web Developer."**
 
-### About Me
+### 
 * 🛠   **Current Focus:** diving deep into the `Javascript` Environment.
 * 📫 **Contact:** [astareyhan@gmail.com](mailto:astareyhan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/reyhanasta)
 
