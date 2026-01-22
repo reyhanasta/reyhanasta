@@ -18,7 +18,7 @@
 ---
 
 <div align="left">
-  <a href="https://astareyhan.my.id/" target="_blank"><b>🌐 Visit my Portfolio</b></a> • 
+  <!-- <a href="https://astareyhan.my.id/" target="_blank"><b>🌐 Visit my Portfolio</b></a> •  -->
   <a href="https://www.linkedin.com/in/reyhanasta" target="_blank"><b>💼 Connect on LinkedIn</b></a>
 </div>
 
