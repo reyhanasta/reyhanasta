@@ -18,7 +18,7 @@
 ---
 
 <div align="left">
-  <a href="https://reyhanasta.github.io/my-portofolio-react/" target="_blank"><b>🌐 Visit my Portfolio</b></a> • 
+  <a href="https://www.astareyhan.my.id" target="_blank"><b>🌐 Visit my Portfolio</b></a> • 
   <a href="https://www.linkedin.com/in/reyhanasta" target="_blank"><b>💼 Connect on LinkedIn</b></a>
 </div>
 
