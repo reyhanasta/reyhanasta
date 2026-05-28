@@ -1,7 +1,6 @@
 # Whatsupp! 👋 
 
 ### 
-* 🛠   **Current Focus:** diving deep into the `Javascript` Environment.
 * 📫 **Contact:** [astareyhan@gmail.com](mailto:astareyhan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/reyhanasta)
 
 ---
